@@ -1,0 +1,30 @@
+
+Test_ArrayNotNullptr is OK!
+Test_ClockNotNull is OK!
+
+Elements[0] Time: 0
+
+Test_ArrayNotNullptr is OK!
+Test_ValueInRange is OK!
+Test_ValueInRange is OK!
+Test_ValueInRange is OK!
+Test_ValueInRange is OK!
+Test_ValueInRange is OK!
+Test_ValueInRange is OK!
+Test_ValueInRange is OK!
+Test_ValueInRange is OK!
+Test_ValueInRange is OK!
+Test_ValueInRange is OK!
+Test_ClockNotNull is OK!
+Arr[1]: 1
+Arr[2]: 2
+Arr[3]: 3
+Arr[4]: 5
+Arr[5]: 5
+Arr[6]: 5
+Arr[7]: 8
+Arr[8]: 9
+Arr[9]: 9
+Arr[10]: 10
+
+Elements[10] Time: 0
